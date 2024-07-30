@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Hello 👋
+I'm Elizabeth Nyuot
 <!--
-**GeneralBe/GeneralBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal Background 
+
 
 Here are some ideas to get you started:
 
